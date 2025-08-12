@@ -3,8 +3,6 @@ Har bir atamani tushuntirishda **ortiqcha gap yo‘q**, faqat kerakli joylari to
 
 Quyida tayyor README.md:
 
----
-
 ```markdown
 # CSS Asosiy Qo'llanma
 
@@ -121,8 +119,3 @@ Element tuzilishi: **content → padding → border → margin**.
 
 ---
 ```
-
----
-
-Agar xohlasang, men bunga **CSS kod misollari** qo‘shib README’ni **vizual** qilib beraman, shunda nazariya bilan amaliyot birga bo‘ladi.
-Shunday qilaymi, tayyor qilib beraymi?
